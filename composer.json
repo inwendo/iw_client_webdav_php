@@ -1,6 +1,6 @@
 {
     "name": "inwendo/iw_client_webdav_php",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "API Component for the inwendo WebDav Gateway",
     "keywords": [
         "swagger",
